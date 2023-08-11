@@ -1,6 +1,6 @@
 ### Olá! Eu sou Debora Batista Paulo, 👋
-- 🔭 Trabalho como professora no Ensino Médio e Técnico de TI e Ensino Superior 
-- 🌱 Hoje estou estudando jogos para Web.
+- 🔭 Profª professora de TI no Médio e Técnico. Também no Ensino Superior 
+- 🌱 Estou sempre estudando...
 - 💬 Pergunte-me sobre os desafios da programação para iniciantes
 - 📫 Contacte-me no e-mail: 
 - 😄 Pronouns: ela/dela
