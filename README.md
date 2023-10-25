@@ -3,7 +3,7 @@
 - 👋 Profª no Ensino Superior
 - 🔭 Profª de TI no Médio e Técnico. 
 - 💬 Pergunte-me sobre os desafios da programação para iniciantes ou transição de carreira
-- 🌱 Estou sempre estudando...
+- 🌱 Estou sempre estudando e aprendendo coisas novas
 - 📫 Contacte-me no e-mail: 
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: ...
@@ -19,6 +19,11 @@
   <img align="center" alt="Debora-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Debora-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Debora-Gimp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
+  <img align="center" alt="Debora-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="Debora-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Debora-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />                    
+        
+          
   
           
          
