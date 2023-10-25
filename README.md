@@ -1,8 +1,9 @@
 ### Olá! Eu sou Debora Batista Paulo, 👋
-- 🔭 Profª de TI no Médio e Técnico. Também no Ensino Superior
-- 👋 Mestra em Engenharia da Informação - UFABC
+- 💻 Mestra em Engenharia da Informação - UFABC
+- 👋 Profª no Ensino Superior
+- 🔭 Profª de TI no Médio e Técnico. 
+- 💬 Pergunte-me sobre os desafios da programação para iniciantes ou transição de carreira
 - 🌱 Estou sempre estudando...
-- 💬 Pergunte-me sobre os desafios da programação para iniciantes
 - 📫 Contacte-me no e-mail: 
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: ...
