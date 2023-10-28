@@ -23,7 +23,7 @@
   <img align="center" alt="Debora-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Debora-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Debora-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />         
-
+  </div>
  <br><br>
           
                   
@@ -33,7 +33,7 @@
          
 <!-- <img align="right" alt="Debora-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
 
-
+<div style="display: inline_block"><br> 
  
   <a href="https://www.youtube.com/channel/UCMT_SWKOnHgQhHrG5MerYWg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   
@@ -45,7 +45,7 @@
 
    <a href="https://discord.gg/xx2wP35k" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
    
-  
+</div>
 <!--<a href="https://github.com/profdeborapaulo" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" target="_blank"></a> -->
   
            
@@ -733,4 +733,4 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 -->
 
 
-  </div>
+
