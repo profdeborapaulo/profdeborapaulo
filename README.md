@@ -1,6 +1,6 @@
 ### Olá! Eu sou Debora Batista Paulo, 👋
 ![image](https://github.com/profdeborapaulo/profdeborapaulo/assets/87874470/117ea09a-9101-4e3d-aeae-1a26329367c8) ** Meus amores: Meus filhos, minha vida!!! **
-- 🙏 Tenho Fé e tenho profunda gratidão a Deus!
+- 🙏 Tenho Fé e profunda gratidão a Deus!
 - 💻 Mestra em Engenharia da Informação - UFABC
 - 👩‍💻 Profª no Ensino Superior de Tecnologia
 - 🔭 Profª no Ensino Médio Integrado ao Técnico  
