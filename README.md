@@ -1,6 +1,7 @@
 ### Olá! Eu sou Debora Batista Paulo, 👋
-- ![image](https://github.com/profdeborapaulo/profdeborapaulo/assets/87874470/75c7d917-3148-404f-9ca1-b36959fd4f4e) 
-### Meus amores: Meus filhos, minha vida!!!
+
+#### Meus amores: Meus filhos, minha vida!!!
+-![image](https://github.com/profdeborapaulo/profdeborapaulo/assets/87874470/3136f924-5998-4b44-b800-3ec7a5e72ca9)
 - 💻 Mestra em Engenharia da Informação - UFABC
 - 👋 Profª no Ensino Superior de Tecnologia
 - 🔭 Profª no Ensino Médio Integrado ao Técnico  
