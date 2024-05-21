@@ -1,12 +1,14 @@
 ### Olá! Eu sou Debora Batista Paulo, 👋
+- ![image](https://github.com/profdeborapaulo/profdeborapaulo/assets/87874470/5527d2fb-e60e-4a7d-beb2-4163bfe6f9a0)
+Meus amores: Meus filhos, minha vida!!!
 - 💻 Mestra em Engenharia da Informação - UFABC
-- 👋 Profª no Ensino Superior
-- 🔭 Profª de TI no Médio e Técnico. 
+- 👋 Profª no Ensino Superior de Tecnologia
+- 🔭 Profª no Ensino Médio Integrado ao Técnico  
 - 💬 Pergunte-me sobre os desafios da programação para iniciantes ou transição de carreira
-- 🌱 Estou sempre estudando e aprendendo coisas novas
+- 🌱 Estou sempre estudando e aprendendo coisas novas 
 - 📫 Contacte-me no e-mail: 
 - 😄 Pronouns: ela/dela
-- ⚡ Fun fact: ...
+- ⚡ Praias e Campo me renovam as energias.
 
 ![Debora's GitHub stats](https://github-readme-stats.vercel.app/api?username=profdeborapaulo&theme=radical&show_icons=true)
 
