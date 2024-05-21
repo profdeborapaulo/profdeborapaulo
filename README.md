@@ -2,14 +2,17 @@
 ![image](https://github.com/profdeborapaulo/profdeborapaulo/assets/87874470/117ea09a-9101-4e3d-aeae-1a26329367c8) ** Meus amores: Meus filhos, minha vida!!! **
 - 🙏 Tenho Fé e tenho profunda gratidão a Deus!
 - 💻 Mestra em Engenharia da Informação - UFABC
-- 👋 Profª no Ensino Superior de Tecnologia
+- 👩‍💻 Profª no Ensino Superior de Tecnologia
 - 🔭 Profª no Ensino Médio Integrado ao Técnico  
-- 💬 Pergunte-me sobre os desafios da programação para iniciantes ou transição de carreira
-- 🌱 Estou sempre estudando e aprendendo coisas novas 
+- 💬 Pergunte-me sobre os desafios da programação para mulheres
+- 💬 Pergunte-me sobre os desafios na transição de carreira
+- 🌱 Estou sempre estudando e aprendendo coisas novas
+- ⚡ Sol energia essencial, luz, vida.
+- 🏞 Praias e o 🌄 Campo me renovam.
 - 📫 Contacte-me no e-mail: 
 - 😄 Pronouns: ela/dela
-- ⚡  Sol energia essencial, luz, vida.
-- 🏖 🌄 Praias e Campo me renovam
+
+
 
 ![Debora's GitHub stats](https://github-readme-stats.vercel.app/api?username=profdeborapaulo&theme=radical&show_icons=true)
 
