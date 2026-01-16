@@ -1,6 +1,11 @@
 ### Olá! Eu sou Debora Batista Paulo, 👋
-![image]
-(https://github.com/profdeborapaulo/profdeborapaulo/assets/87874470/117ea09a-9101-4e3d-aeae-1a26329367c8) ** Meus amores: Meus filhos, minha vida!!! **
+<!-- ![image](https://github.com/profdeborapaulo/profdeborapaulo/assets/87874470/117ea09a-9101-4e3d-aeae-1a26329367c8) ** Meus amores: Meus filhos, minha vida!!! ** -->
+<div align="center">
+  <img src="https://github.com/profdeborapaulo/profdeborapaulo/assets/87874470/117ea09a-9101-4e3d-aeae-1a26329367c8" width="400" alt="Meus Filhos" />
+  <p>
+    <strong>** Meus amores: Meus filhos, minha vida!!! **</strong>
+  </p>
+</div>
 - 🙏 Tenho Fé e profunda gratidão a Deus!
 - 💻 Mestra em Engenharia da Informação - UFABC
 - 👩‍💻 Profª no Ensino Superior de Tecnologia
@@ -14,10 +19,11 @@
 - 😄 Pronouns: ela/dela
 
 
+<!--
+![Debora's GitHub stats](https://github-readme-stats.vercel.app/api?username=profdeborapaulo&theme=radical&show_icons=true) -->
+<img align="center" alt="Debora-Stats" src="https://github-readme-stats.vercel.app/api?username=profdeborapaulo&theme=radical&show_icons=true" />
 
-![Debora's GitHub stats](https://github-readme-stats.vercel.app/api?username=profdeborapaulo&theme=radical&show_icons=true)
-
-<div style="display: inline_block"><br> 
+<div style="display: inline_block"> <br> 
   
   <img align="center" alt="Debora-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Debora-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
