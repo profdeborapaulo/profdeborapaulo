@@ -1,6 +1,6 @@
 ### Olá! Eu sou Debora Batista Paulo, 👋
-<div align="center">
-  <img src="https://github.com/profdeborapaulo/profdeborapaulo/assets/87874470/117ea09a-9101-4e3d-aeae-1a26329367c8" width="100" alt="Meus Filhos" />
+<div align="justify">
+  <img src="https://github.com/profdeborapaulo/profdeborapaulo/assets/87874470/117ea09a-9101-4e3d-aeae-1a26329367c8" width="20" alt="Meus Filhos" />
   <p>
     <strong>** Meus amores: Meus filhos, minha vida!!! **</strong>
   </p>
