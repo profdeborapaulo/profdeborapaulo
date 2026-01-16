@@ -1,6 +1,11 @@
 ### Olá! Eu sou Debora Batista Paulo, 👋
-![image]
-(https://github.com/profdeborapaulo/profdeborapaulo/assets/87874470/117ea09a-9101-4e3d-aeae-1a26329367c8) ** Meus amores: Meus filhos, minha vida!!! **
+<div align="center">
+  <img src="https://github.com/profdeborapaulo/profdeborapaulo/assets/87874470/117ea09a-9101-4e3d-aeae-1a26329367c8" width="400" alt="Meus Filhos" />
+  <p>
+    <strong>** Meus amores: Meus filhos, minha vida!!! **</strong>
+  </p>
+</div>
+
 - 🙏 Tenho Fé e profunda gratidão a Deus!
 - 💻 Mestra em Engenharia da Informação - UFABC
 - 👩‍💻 Profª no Ensino Superior de Tecnologia
@@ -42,6 +47,8 @@
           
          
 <!-- <img align="right" alt="Debora-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> 
+
+![image](https://github.com/profdeborapaulo/profdeborapaulo/assets/87874470/117ea09a-9101-4e3d-aeae-1a26329367c8) ** Meus amores: Meus filhos, minha vida!!! **
 
 
 
