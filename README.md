@@ -1,12 +1,10 @@
 ### Olá! Eu sou Debora Batista Paulo, 👋
 
 - <img src="https://github.com/profdeborapaulo/profdeborapaulo/assets/87874470/117ea09a-9101-4e3d-aeae-1a26329367c8" height="25" style="vertical-align: middle;"> Meus amores: Meus filhos, meu marido, minha vida!!!
-
 - 🙏 Tenho Fé e profunda gratidão a Deus! 
-- 💻 Mestra em Engenharia da Informação - UFABC
-- 👩‍💻 Profª no Ensino Superior de Tecnologia
-- 🔭 Profª no Ensino Médio Integrado ao Técnico  
-- 💬 Pergunte-me sobre os desafios da programação para mulheres
+- 👩‍💻 Tech Lead & Educadora | Empreendedora | Mestra em Engenharia da Informação UFABC
+- 💻 Instrutora e Criadora de Materiais Didáticos focados Tecnologia.
+- 👩‍💻 Pergunte-me sobre os desafios da programação para mulheres
 - 💬 Pergunte-me sobre os desafios na transição de carreira
 - 🌱 Estou sempre estudando e aprendendo coisas novas
 - ⚡ Sol energia essencial, luz, vida.
@@ -23,6 +21,7 @@
   <img alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Typescript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img alt="Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
@@ -43,7 +42,7 @@
 <p align="left">
   <img alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img alt="Cassandra" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachecassandra/apachecassandra-original.svg">
+  <img alt="Cassandra" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg">
   <img alt="Redis" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
 </p>
 
